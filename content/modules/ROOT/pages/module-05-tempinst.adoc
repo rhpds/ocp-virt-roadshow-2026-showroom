@@ -493,7 +493,7 @@ image::2026_spring/module-05-tempinst/29_Clone_Menu.png[link=self, window=blank,
 
 . Once this is saved, you can use it to quickly create Windows VMs in the future.
 
-. Return to the *Virtualization -> Catalog* menu item, and use this cloned PVC as a boot source for quick-creating new virtual machines by selecting the option for *PVC (clone PVC)* as the *Disk source*, and selecting the *Windows-2k22-Sysprep-Template* PVC as the *PVC name* to clone, and click the *Customize VirtualMachine* button to configure boot mode *BIOS* instead *UEFI*.
+. Return to the *Virtualization -> Catalog* menu item, and use this cloned PVC as a boot source for quick-creating new virtual machines by selecting the option for *PVC (clone PVC)* as the *Disk source*, and selecting the *Windows-2k22-Sysprep-Template* PVC as the *PVC name* to clone.
 +
 image::2026_spring/module-05-tempinst/30_Windows_Template.png[link=self, window=blank, width=100%]
 +
